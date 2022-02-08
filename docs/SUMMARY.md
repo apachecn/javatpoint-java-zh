@@ -76,7 +76,7 @@
 +   [字符串和`StringBuffer`的区别](0080.md)
 +   [StringBuffer 和 StringBuilder 的区别](0081.md)
 +   [如何创建不可变类？](0082.md)
-+   [Java toString()方法](0083.md)
++   [Java `toString()`方法](0083.md)
 +   [Java 中的 StringTokenizer](0084.md)
 +   [Java 字符串常见问题或面试问题](0085.md)
 +   [Java 字符串方法](0087.md)
